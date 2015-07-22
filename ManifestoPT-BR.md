@@ -64,7 +64,9 @@ Manifesto para aquelas pessoas que querem desenvolver suas ideias conhecidas aqu
     - Crie um ambiente propício
     - Encorage comportamentos
 
+
 Versão: 0.0.1
+
 Made by:
 - Jackson Lima
 
